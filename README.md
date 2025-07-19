@@ -1,3 +1,1 @@
-# pythonclass
-
-thsi is a new line of code
+this is our online class to learn python programming language
